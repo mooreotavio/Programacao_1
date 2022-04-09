@@ -1,12 +1,12 @@
 # Programacão I
 
-Repositório contendo relatórios e códigos realizados durante a disciplina de programação 1 na UENF, utilizando ruby, cursada no primeiro semestre de 2021.
+Repository containing activities and code (**Ruby**) made along the *Programming I* discipline, at the first semester of 2021.
 
-## Conteúdos:
+## Contents:
 
- -> `Otavio Moore Zaccaro - Atividade 1.docx`: Relatório introdutório à disciplina.  
+ -> `Otavio Moore Zaccaro - Atividade 1.docx`: introduction to the discipline.  
  
- -> `P1.rb`: programa para que recebe dimensões de um terreno e calcula sua área em m², e o classifica de acordo com o resultado.  
+ -> `P1.rb`: program that gets a terrain's dimensions and calculates it's area, in m², and classifies it accordingly.  
  
- -> `P1-2.rb`: programa para conversão real -> dólar (cotação fixa).  
+ -> `P1-2.rb`: program that converts **BRL** to **USD**. based on a fixed price.  
  
